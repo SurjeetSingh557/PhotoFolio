@@ -1,5 +1,5 @@
 # Photofolio App
-[PhotoFolio](https://shreyas-ingale.github.io/Photofolio/) is an online photo album react app that allows users to upload, organize, and share their digital photos.
+[PhotoFolio] is an online photo album react app that allows users to upload, organize, and share their digital photos.
 
 ##  Getting Started 
 -  Fork the Project in your Repository.
